@@ -13,7 +13,6 @@ soma = 0
 for i in range(n):
 	soma = soma + vetor[i]
 
-
 media = soma / n
 
 print(f"\nMEDIA DO VETOR = {media:.3f}")
